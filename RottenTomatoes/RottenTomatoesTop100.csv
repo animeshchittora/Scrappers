@@ -1,0 +1,101 @@
+MovieRank,Name,ReleaseYear,RTScore,Director
+100,The Bridge on the River Kwai,1957,107346%,David Lean
+99,Paths of Glory,1957,103533%,Stanley Kubrick
+98,Rebel Without a Cause,1955,97838%,Nicholas Ray
+97,A Fistful of Dollars,1964,100549%,Sergio Leone
+96,The Birds,1963,99528%,Alfred Hitchcock
+95,Sunrise,1927,103759%,F.W. Murnau
+94,The Hustler,1961,99589%,Robert Rossen
+93,Bringing Up Baby,1938,103292%,Howard Hawks
+92,Some Like It Hot,1959,100418%,Billy Wilder
+91,Fantasia,1940,99413%,James Algar
+90,The Day the Earth Stood Still,1951,102461%,Robert Wise
+89,Duck Soup,1933,98181%,Leo McCarey
+88,One Hundred and One Dalmatians,1961,99449%,Wolfgang Reitherman
+87,The Best Years of Our Lives,1946,107654%,William Wyler
+86,Forbidden Planet,1956,99463%,Fred McLeod Wilcox
+85,Spartacus,1960,99733%,Stanley Kubrick
+84,The Umbrellas of Cherbourg,1964,104014%,Jacques Demy
+83,Eyes Without a Face,1959,102896%,Georges Franju
+82,8 1/2,1963,103299%,Federico Fellini
+81,Pather Panchali,1955,99475%,Satyajit Ray
+80,The Manchurian Candidate,1962,101423%,John Frankenheimer
+79,Gentlemen Prefer Blondes,1953,101552%,Howard Hawks
+78,Breathless,1959,104266%,Jean-Luc Godard
+77,Freaks,1932,103000%,Tod Browning
+76,Miracle on 34th Street,1947,102007%,George Seaton
+75,Throne of Blood,1957,100128%,Akira Kurosawa
+74,Double Indemnity,1944,111531%,Billy Wilder
+73,Beauty and the Beast,1946,105177%,Jean Cocteau
+72,His Girl Friday,1940,111363%,Howard Hawks
+71,The Rules of the Game,1939,100675%,Jean Renoir
+70,Invasion of the Body Snatchers,1956,103869%,Don Siegel
+69,City Lights,1931,103512%,Charles Chaplin
+68,Mary Poppins,1964,100758%,Robert Stevenson
+67,The Big Sleep,1946,103270%,Howard Hawks
+66,To Be or Not to Be,1942,101669%,Ernst Lubitsch
+65,Sweet Smell of Success,1957,104762%,Alexander Mackendrick
+64,Strangers on a Train,1951,105631%,Alfred Hitchcock
+63,The Gold Rush,1925,108776%,Charles Chaplin
+62,It's a Wonderful Life,1946,104152%,Frank Capra
+61,La dolce vita,1960,104728%,Federico Fellini
+60,The Red Shoes,1948,104017%,Michael Powell
+59,The Searchers,1956,99160%,John Ford
+58,An American in Paris,1951,109436%,Vincente Minnelli
+57,Cool Hand Luke,1967,104317%,Stuart Rosenberg
+56,The Leopard,1963,101497%,Luchino Visconti
+55,The Lady Vanishes,1938,105082%,Alfred Hitchcock
+54,Battleship Potemkin,1925,110364%,S. M. Eisenstein
+53,Anatomy of a Murder,1959,104375%,Otto Preminger
+52,Roman Holiday,1953,102241%,William Wyler
+51,The Grapes of Wrath,1940,105483%,John Ford
+50,The Wages of Fear,1953,104672%,Henri-Georges Clouzot
+49,On the Waterfront,1954,110256%,Elia Kazan
+48,High Noon,1952,103531%,Fred Zinnemann
+47,Pinocchio,1940,106542%,Ben Sharpsteen
+46,Tokyo Story,1953,104914%,Yasujirô Ozu
+45,Open City,1945,105071%,Roberto Rossellini
+44,"The Good, the Bad and the Ugly",1967,103671%,Sergio Leone
+43,The 39 Steps,1935,106232%,Alfred Hitchcock
+42,Gone With the Wind,1939,100240%,Victor Fleming
+41,Rebecca,1940,111496%,Alfred Hitchcock
+40,Touch of Evil,1958,105586%,Orson Welles
+39,Frankenstein,1931,106484%,James Whale
+38,Dr. Strangelove Or: How I Learned to Stop Worrying and Love the Bomb,1964,105632%,Stanley Kubrick
+37,Vertigo,1958,104862%,Alfred Hitchcock
+36,Lawrence of Arabia,1962,105688%,David Lean
+35,A Streetcar Named Desire,1951,105291%,Elia Kazan
+34,The Night of the Hunter,1955,101652%,Charles Laughton
+33,All Quiet on the Western Front,1930,109332%,Lewis Milestone
+32,The 400 Blows,1959,104203%,François Truffaut
+31,12 Angry Men,1957,106898%,Sidney Lumet
+30,The Treasure of the Sierra Madre,1948,106467%,John Huston
+29,Bicycle Thieves,1948,106439%,Vittorio De Sica
+28,Seven Samurai,1954,109576%,Akira Kurosawa
+27,The Philadelphia Story,1940,112628%,George Cukor
+26,M,1931,107952%,Fritz Lang
+25,Bride of Frankenstein,1935,106384%,James Whale
+24,Rear Window,1954,111072%,Alfred Hitchcock
+23,The Adventures of Robin Hood,1938,108687%,Michael Curtiz
+22,Rashomon,1950,103519%,Akira Kurosawa
+21,Sunset Blvd.,1950,109477%,Billy Wilder
+20,Repulsion,1965,97143%,Roman Polanski
+19,The Maltese Falcon,1941,108263%,John Huston
+18,King Kong,1933,108607%,Merian C. Cooper
+17,Grand Illusion,1937,112318%,Jean Renoir
+16,North by Northwest,1959,107826%,Alfred Hitchcock
+15,The Battle of Algiers,1966,106099%,Gillo Pontecorvo
+14,A Hard Day's Night,1964,108621%,Richard Lester
+13,Snow White and the Seven Dwarfs,1937,99480%,David Hand
+12,Nosferatu,1922,110282%,F.W. Murnau
+11,Laura,1944,109149%,Otto Preminger
+10,Psycho,1960,108345%,Alfred Hitchcock
+9,Casablanca,1942,115087%,Michael Curtiz
+8,Singin' in the Rain,1952,110437%,Stanley Donen
+7,It Happened One Night,1934,117809%,Frank Capra
+6,Modern Times,1936,117201%,Charlie Chaplin
+5,Metropolis,1927,110562%,Fritz Lang
+4,All About Eve,1950,110027%,Joseph L. Mankiewicz
+3,The Third Man,1949,112506%,Carol Reed
+2,Citizen Kane,1941,116092%,Orson Welles
+1,The Wizard of Oz,1939,114788%,Victor Fleming
