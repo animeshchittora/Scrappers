@@ -32,7 +32,7 @@ def parsehtml(soup):
         itemlist=soup.find_all('div',{'data-component-type':'s-search-result'})
         for products in itemlist:
             title.append(products.find('span',{'class':'a-size-medium a-color-base a-text-normal'}).text)
-            link.append(products.find('a',{'class':'a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal'})['href'])
+            link.append("https://www.amazon.in/"+str(products.find('a',{'class':'a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal'})['href']))
             try:
                 reviews.append(products.find('span',{'class':'a-size-base'}).text)
             except:
